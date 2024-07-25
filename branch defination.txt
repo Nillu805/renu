@@ -1,4 +1,4 @@
-branch is of 4 types 
+branch is of 4 types cd
 Master branch - it is the default branch of the git where every subsidary branch merge
 Feature brach - this branch is named according to the functionality of the application
 this brach is created according to  feature of an application
